@@ -4,4 +4,4 @@ This group project was for a fictitious company called Swan Consulting, where we
 
 
 ## License
-https://opensource.org/license/gpl-3-0/ 
+[GNU General Public License version 3](https://opensource.org/license/gpl-3-0/)
